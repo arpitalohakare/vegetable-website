@@ -1,6 +1,6 @@
 # Veggie Market E-commerce Platform
 
-![Veggie Market](public/lovable-uploads/50d19bda-bf96-4d17-b05e-116f98216719.png)
+
 
 A modern e-commerce platform for selling organic produce and groceries, built with React, TypeScript, Tailwind CSS, and Supabase.
 
